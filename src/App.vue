@@ -1,8 +1,11 @@
 <template>
 
-<div>
-  <router-view></router-view>
-</div>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati accusantium veritatis
+ quo labore. Atque quas, id assumenda saepe quia quidem laboriosam soluta eius alias 
+ debitis, distinctio sint aut? Numquam, quos.</p>
+<router-view></router-view>
+
+
 </template>
 
 <script>

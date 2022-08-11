@@ -1,6 +1,4 @@
-
 {
-  
   "name": "authentication",
   "version": "0.1.0",
   "private": true,
@@ -11,8 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "serve": "^14.0.1",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.13"
+    "vue-router": "4"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -24,11 +23,9 @@
     "eslint-plugin-vue": "^8.0.3"
   },
   "eslintConfig": {
-    
     "root": true,
     "env": {
       "node": true
-
     },
     "extends": [
       "plugin:vue/vue3-essential",
@@ -44,8 +41,5 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-
   ]
-
- 
 }
