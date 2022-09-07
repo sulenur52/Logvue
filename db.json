@@ -1,5 +1,12 @@
 {
-    "user":[],
-    "bookmarks":[],
-    "categories":[]
+  "users": [
+    {
+      "username": "altun",
+      "fullname": "jughıjbjm",
+      "password": "12345",
+      "id": 1
+    }
+  ],
+  "bookmarks": [],
+  "categories": []
 }

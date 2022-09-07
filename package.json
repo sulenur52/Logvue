@@ -9,12 +9,16 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "axioss": "^0.0.1-security",
     "core-js": "^3.8.3",
     "crypto-js": "^4.1.1",
     "crypto.js": "^3.0.0",
     "index.js": "^0.0.3",
+    "save": "^2.5.0",
     "serve": "^14.0.1",
+    "server": "^1.0.37",
     "vue": "^3.2.13",
+    "vue-native-websocket": "^2.0.15",
     "vue-router": "4",
     "vuex": "^4.0.2"
   },
